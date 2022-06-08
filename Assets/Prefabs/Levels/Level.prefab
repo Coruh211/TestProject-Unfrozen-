@@ -40,17 +40,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6815305783047588841}
     m_Modifications:
+    - target: {fileID: 1581086101266201945, guid: b4edc7ffd00fc354a822198798856674, type: 3}
+      propertyPath: loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581086101266201945, guid: b4edc7ffd00fc354a822198798856674, type: 3}
+      propertyPath: _animationName
+      value: DoubleShift
+      objectReference: {fileID: 0}
     - target: {fileID: 2265360156501951765, guid: b4edc7ffd00fc354a822198798856674, type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2265360156501951765, guid: b4edc7ffd00fc354a822198798856674, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1.1261142
-      objectReference: {fileID: 0}
-    - target: {fileID: 2265360156501951765, guid: b4edc7ffd00fc354a822198798856674, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 7.08
       objectReference: {fileID: 0}
     - target: {fileID: 2265360156501951765, guid: b4edc7ffd00fc354a822198798856674, type: 3}
       propertyPath: m_LocalPosition.z

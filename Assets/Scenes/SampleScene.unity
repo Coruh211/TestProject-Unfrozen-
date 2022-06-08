@@ -236,7 +236,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &967668970
 GameObject:
@@ -312,25 +312,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6058991736801669061, guid: 7ebf85c69f602904cb241afe2a4c2e97, type: 3}
-      propertyPath: loop
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6058991736801669061, guid: 7ebf85c69f602904cb241afe2a4c2e97, type: 3}
-      propertyPath: _animationName
-      value: DoubleShift
-      objectReference: {fileID: 0}
     - target: {fileID: 6815305782740397369, guid: 7ebf85c69f602904cb241afe2a4c2e97, type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
-    - target: {fileID: 6815305783036383046, guid: 7ebf85c69f602904cb241afe2a4c2e97, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 6815305783047588841, guid: 7ebf85c69f602904cb241afe2a4c2e97, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6815305783047588841, guid: 7ebf85c69f602904cb241afe2a4c2e97, type: 3}
       propertyPath: m_LocalPosition.x
